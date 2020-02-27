@@ -30,3 +30,7 @@ out/
 
 ### VS Code ###
 .vscode/
+/.
+/.idea/compiler.xml
+/.idea/dictionaries
+/.idea/encodings.xml
