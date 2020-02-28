@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: configclt
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://10.160.1.236:8888
+      name: configsvc
+
+
